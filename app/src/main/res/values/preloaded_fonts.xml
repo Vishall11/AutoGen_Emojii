@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/alex_brush</item>
+        <item>@font/roboto</item>
+        <item>@font/trade_winds</item>
+    </array>
+</resources>
